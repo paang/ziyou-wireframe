@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"my_service__tour_guide_.html",
+  "generationDate":new Date(1423750819974.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fa9cdb80beec409e95a0dee0332bfbf5",
+    "type":"Axure:Page",
+    "name":"My Service (Tour Guide)",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1235c14ba3394d4c8f7f088ea49b4bc1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":57,
+              "y":60},
+            "size":{
+              "width":256,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5373fefa4eb4460cb2dd21ab599a37f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":57,
+                  "y":60},
+                "size":{
+                  "width":256,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1235c14ba3394d4c8f7f088ea49b4bc1":{
+      "scriptId":"u0"},
+    "5373fefa4eb4460cb2dd21ab599a37f9":{
+      "scriptId":"u1"}}});

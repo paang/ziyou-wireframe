@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"_voice_guide.html",
+  "generationDate":new Date(1423750820013.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"236b53da1f564af7b8dd08017928f3c9",
+    "type":"Axure:Page",
+    "name":"*Voice Guide",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d1a745fb05ce4de9bd6a50920f5cc472",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"228f6aad9f1d420da55a3ff140add796",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/_voice_guide/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d1a745fb05ce4de9bd6a50920f5cc472":{
+      "scriptId":"u0"},
+    "228f6aad9f1d420da55a3ff140add796":{
+      "scriptId":"u1"}}});

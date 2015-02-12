@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"_reservation_check.html",
+  "generationDate":new Date(1423750819560.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"f701c8a63a2946a8922647c8105079b6",
+    "type":"Axure:Page",
+    "name":"*Reservation Check",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"43b4a9ce6d684adab17cf278d2b6fa54",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bb78a27e73184dfb94e1f00ffd2e945c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/_reservation_check/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "43b4a9ce6d684adab17cf278d2b6fa54":{
+      "scriptId":"u0"},
+    "bb78a27e73184dfb94e1f00ffd2e945c":{
+      "scriptId":"u1"}}});

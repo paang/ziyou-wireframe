@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"my_points.html",
+  "generationDate":new Date(1423750819782.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"5e0ccd4007a7446f94a01401e3c583b8",
+    "type":"Axure:Page",
+    "name":"My Points",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"44c5c349eb4f4e6396c344ee24900fa3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4fd37ede3080482e90a553efd2a4778d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/my_points/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "44c5c349eb4f4e6396c344ee24900fa3":{
+      "scriptId":"u0"},
+    "4fd37ede3080482e90a553efd2a4778d":{
+      "scriptId":"u1"}}});

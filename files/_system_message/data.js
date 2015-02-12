@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"_system_message.html",
+  "generationDate":new Date(1423750819955.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"25f506ba5f444462974d2ea1e5d29782",
+    "type":"Axure:Page",
+    "name":"*System Message",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"b28d75af611946848423c657685afb8b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"106901768f9e46988f0e1e091941c403",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/message/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "b28d75af611946848423c657685afb8b":{
+      "scriptId":"u0"},
+    "106901768f9e46988f0e1e091941c403":{
+      "scriptId":"u1"}}});

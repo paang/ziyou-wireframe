@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"my_account__tour_guide_.html",
+  "generationDate":new Date(1423750819671.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b9c22d660f1e4c92a1020022ed8da228",
+    "type":"Axure:Page",
+    "name":"My Account (Tour Guide)",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e0ba1656bb3e4cb3a7180e2ecdea4de5",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6d0505217003400a9dcc5555463fd61c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/my_account__tour_guide_/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e0ba1656bb3e4cb3a7180e2ecdea4de5":{
+      "scriptId":"u0"},
+    "6d0505217003400a9dcc5555463fd61c":{
+      "scriptId":"u1"}}});

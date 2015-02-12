@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"links.html",
+  "generationDate":new Date(1423750820215.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"47a0bbb3a4964ef08707d1b29665c5c3",
+    "type":"Axure:Page",
+    "name":"Links",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"baa9400b54fc49fe844922ff8df41ce2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"618d2e0cc03e4d78b81c887a764be14b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/company_information/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "baa9400b54fc49fe844922ff8df41ce2":{
+      "scriptId":"u0"},
+    "618d2e0cc03e4d78b81c887a764be14b":{
+      "scriptId":"u1"}}});

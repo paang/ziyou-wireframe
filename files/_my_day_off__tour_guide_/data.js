@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"_my_day_off__tour_guide_.html",
+  "generationDate":new Date(1423750819885.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"108e5cdde6ad4cc1b0e39d64da6243a1",
+    "type":"Axure:Page",
+    "name":"*My Day OFF (Tour Guide)",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"26d22a272a04446b9570814008a01505",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a8e4120913b64eb1a21ec58a30800b25",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/_my_day_off__tour_guide_/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "26d22a272a04446b9570814008a01505":{
+      "scriptId":"u0"},
+    "a8e4120913b64eb1a21ec58a30800b25":{
+      "scriptId":"u1"}}});

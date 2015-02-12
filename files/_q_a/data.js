@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"_q_a.html",
+  "generationDate":new Date(1423750820185.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"4b7c073667994456880a3ab79a304086",
+    "type":"Axure:Page",
+    "name":"*Q&A",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"920d42d10b3045258405071f18147bb7",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dd1529fefcb640909e8f93e0aaa9d412",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/company_information/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "920d42d10b3045258405071f18147bb7":{
+      "scriptId":"u0"},
+    "dd1529fefcb640909e8f93e0aaa9d412":{
+      "scriptId":"u1"}}});

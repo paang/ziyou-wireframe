@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"how_can_i_change_credit_detail_.html",
+  "generationDate":new Date(1423750819750.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"1a6dadbee7a245c693035fd9197edc42",
+    "type":"Axure:Page",
+    "name":"how can i change credit detail?",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d4b958f031e0432b9363b2c1b2935a4c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":53},
+            "size":{
+              "width":854,
+              "height":74}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62e4494aa986469ebff3133ce305fefc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":53},
+                "size":{
+                  "width":854,
+                  "height":74}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d4b958f031e0432b9363b2c1b2935a4c":{
+      "scriptId":"u0"},
+    "62e4494aa986469ebff3133ce305fefc":{
+      "scriptId":"u1"}}});

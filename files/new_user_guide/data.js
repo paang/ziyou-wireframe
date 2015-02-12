@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"new_user_guide.html",
+  "generationDate":new Date(1423750820154.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"b0c515cd755b4a7b9037d58fdaf38ac3",
+    "type":"Axure:Page",
+    "name":"New User Guide",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"050b3b2aa51c40b98447cc77e3e5613e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8686dd3188034acf906ef45fe77bf79f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/company_information/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "050b3b2aa51c40b98447cc77e3e5613e":{
+      "scriptId":"u0"},
+    "8686dd3188034acf906ef45fe77bf79f":{
+      "scriptId":"u1"}}});

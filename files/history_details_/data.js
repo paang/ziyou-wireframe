@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"history_details_.html",
+  "generationDate":new Date(1423750819729.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e35eb41be3d84b5bba3076d0b5e792a7",
+    "type":"Axure:Page",
+    "name":"History Details?",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"cf281abdfc3644fe9fc2ee9759743b84",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":53},
+            "size":{
+              "width":486,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f57b8379ef3749d5a5f66753b594350a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":53},
+                "size":{
+                  "width":486,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "cf281abdfc3644fe9fc2ee9759743b84":{
+      "scriptId":"u0"},
+    "f57b8379ef3749d5a5f66753b594350a":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"terms___policy.html",
+  "generationDate":new Date(1423750820164.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"2085b4c6eece4a3fbccf4356bcb5b33b",
+    "type":"Axure:Page",
+    "name":"Terms & Policy",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ad881d40cd9e46439463d0d38fff3a4e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"aa1766c7bbf04bc4947f74e02b2bf631",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/company_information/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ad881d40cd9e46439463d0d38fff3a4e":{
+      "scriptId":"u0"},
+    "aa1766c7bbf04bc4947f74e02b2bf631":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"cash_back_detail_.html",
+  "generationDate":new Date(1423750819740.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"1a1e1ef0aac64294b7f7b16056c32da7",
+    "type":"Axure:Page",
+    "name":"Cash Back detail?",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"929ac1ad460b4286b2510b785df50d3b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":53},
+            "size":{
+              "width":401,
+              "height":74}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a29c4d58825a4c80b2e791c78e12f9ac",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":53},
+                "size":{
+                  "width":401,
+                  "height":74}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "929ac1ad460b4286b2510b785df50d3b":{
+      "scriptId":"u0"},
+    "a29c4d58825a4c80b2e791c78e12f9ac":{
+      "scriptId":"u1"}}});

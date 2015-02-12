@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"course_for_tour_guide.html",
+  "generationDate":new Date(1423750820226.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c4b1523ed0c64d56b1726ff260914f6a",
+    "type":"Axure:Page",
+    "name":"Course for Tour Guide",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a73a4bb1f2864002a5790dcf5ef39102",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6416dbe8729146d390b6282ab60ad12e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/company_information/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a73a4bb1f2864002a5790dcf5ef39102":{
+      "scriptId":"u0"},
+    "6416dbe8729146d390b6282ab60ad12e":{
+      "scriptId":"u1"}}});

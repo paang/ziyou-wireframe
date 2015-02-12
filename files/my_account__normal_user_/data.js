@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"my_account__normal_user_.html",
+  "generationDate":new Date(1423750820032.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"2325335d860849e0be4a1e1d64e25c01",
+    "type":"Axure:Page",
+    "name":"My Account (Normal user)",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"6c28ee57b8564af8969136166d2d0b69",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":45,
+              "y":50},
+            "size":{
+              "width":545,
+              "height":148}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"10dbeb8be3f545c8adf04b4a21baef96",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":45,
+                  "y":50},
+                "size":{
+                  "width":545,
+                  "height":148}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "6c28ee57b8564af8969136166d2d0b69":{
+      "scriptId":"u0"},
+    "10dbeb8be3f545c8adf04b4a21baef96":{
+      "scriptId":"u1"}}});

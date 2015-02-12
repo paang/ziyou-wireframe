@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"hows_shop_work_.html",
+  "generationDate":new Date(1423750819812.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"07297bdb26554bfaac6381f9f36b5986",
+    "type":"Axure:Page",
+    "name":"Hows Shop work?",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"a6d6b31fcad54e7d98a591c2872c618a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":53},
+            "size":{
+              "width":273,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ecb8ccbf7e1744ee800f445f9e5b9eb4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":53},
+                "size":{
+                  "width":273,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "a6d6b31fcad54e7d98a591c2872c618a":{
+      "scriptId":"u0"},
+    "ecb8ccbf7e1744ee800f445f9e5b9eb4":{
+      "scriptId":"u1"}}});

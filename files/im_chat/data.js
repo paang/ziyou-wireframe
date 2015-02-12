@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"im_chat.html",
+  "generationDate":new Date(1423750819531.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"36abcf1e036e4a049352c1174fcb6bb7",
+    "type":"Axure:Page",
+    "name":"IM Chat",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"92e3aff478ae4d369e8139f8c48f8e6e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":53},
+            "size":{
+              "width":300,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0da73c17f922494ab2f4e73762368045",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":53},
+                "size":{
+                  "width":300,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "92e3aff478ae4d369e8139f8c48f8e6e":{
+      "scriptId":"u0"},
+    "0da73c17f922494ab2f4e73762368045":{
+      "scriptId":"u1"}}});

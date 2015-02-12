@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"_my_certificate__tour_guide_.html",
+  "generationDate":new Date(1423750819831.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3a0d9fede009456c8fd71a8ed3fb6b7f",
+    "type":"Axure:Page",
+    "name":"*My Certificate (Tour Guide)",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"556f6d14d06a41b1be17a3d41a7a1c6a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":10},
+            "size":{
+              "width":595,
+              "height":842}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d118a8bb0dea4fa291cafedf3956b3a9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":10,
+                  "y":10},
+                "size":{
+                  "width":595,
+                  "height":842}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/_my_certificate__tour_guide_/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "556f6d14d06a41b1be17a3d41a7a1c6a":{
+      "scriptId":"u0"},
+    "d118a8bb0dea4fa291cafedf3956b3a9":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"sign_up-_what_happened_after_submit_.html",
+  "generationDate":new Date(1423750819651.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"60b819fa283d48c1bb3167903a90e008",
+    "type":"Axure:Page",
+    "name":"Sign up- what happened after submit?",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0e5d34f9770740c2abc6edf9b6a26c66",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":70},
+            "size":{
+              "width":775,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"80ce8f78c2ec48769b6da474ba72afc8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":50,
+                  "y":70},
+                "size":{
+                  "width":775,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0e5d34f9770740c2abc6edf9b6a26c66":{
+      "scriptId":"u0"},
+    "80ce8f78c2ec48769b6da474ba72afc8":{
+      "scriptId":"u1"}}});

@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"other_services.html",
+  "generationDate":new Date(1423750820205.06),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"1b81911e34704830a0fa869331b669c6",
+    "type":"Axure:Page",
+    "name":"Other Services",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d28c89f44b134ab9abfabe8c0f9ea5b0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":47,
+              "y":53},
+            "size":{
+              "width":256,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"00c64fbe7aa14860aeb58bcfc51350fe",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":47,
+                  "y":53},
+                "size":{
+                  "width":256,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d28c89f44b134ab9abfabe8c0f9ea5b0":{
+      "scriptId":"u0"},
+    "00c64fbe7aa14860aeb58bcfc51350fe":{
+      "scriptId":"u1"}}});
